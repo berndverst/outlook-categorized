@@ -19,7 +19,7 @@ This simple application uses the Microsoft Graph API to create virtual mail fold
 
 This is a static web app that does not store data or send data to any third party. The app only communicates with the Microsoft Graph API for the sake of configuration your Outlook account.
 
-To avoid the need to authorize a third party app with your Outlook account we utilize the short-lived access token generated for the [Microsoft Graph API Explorer][Microsoft Graph API Explorer](https://developer.microsoft.com/graph/graph-explorer?wt.mc_id=outlookcategorized-github-beverst). This access token expires in under an hour and is neither stored nor sent anywhere but to the Microsoft Graph API.
+To avoid the need to authorize a third party app with your Outlook account we utilize the short-lived access token generated for the [Microsoft Graph API Explorer](https://developer.microsoft.com/graph/graph-explorer?wt.mc_id=outlookcategorized-github-beverst). This access token expires in under an hour and is neither stored nor sent anywhere but to the Microsoft Graph API.
 
 The following Graph API calls are bing made:
 1. List all mail categories.
