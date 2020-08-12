@@ -2,7 +2,7 @@
 A simple tool to make Outlook / Office365 mail categories available as virtual folders on all devices and email clients
 
 ### Motivation
-Email is not a piece of paper that needs to be filed into a single bin (folder). Often an email covers multiple topics or categories. Wouldn't it be nice if we had multiple ways to get to a message?
+Email is not a piece of paper that needs to be filed into a single bin (folder). Often an email covers multiple topics or categories. **Wouldn't it be nice if we had multiple ways to get to a particular message?**
 
 Gmail got this right by introducing the concept of **labels** which act like tags that can be independently applied to a message and used for message retrieval. Outlook also supports this concept through what is known as **Categories**.
 
