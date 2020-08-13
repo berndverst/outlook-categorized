@@ -1,5 +1,7 @@
 # Outlook virtually categorized
-A simple tool to make Outlook / Office365 mail categories available as virtual folders on all devices and email clients
+A simple tool to make Outlook / Office365 mail categories available as virtual folders on all devices and email clients.
+
+*If you used labels in Gmail, switched to Outlook and used categories only to realize these do not sync across devices - this tool is for you!*
 
 **Visit: https://berndverst.github.io/outlook-categorized/**
 
