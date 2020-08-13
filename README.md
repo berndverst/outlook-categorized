@@ -1,4 +1,4 @@
-# outlook-categorized
+# Outlook virtually categorized
 A simple tool to make Outlook / Office365 mail categories available as virtual folders on all devices and email clients
 
 ### Motivation
