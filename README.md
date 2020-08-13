@@ -15,7 +15,9 @@ Unfortunately, Outlook categories are not supported in the Outlook mobile apps. 
 
 ### The Solution
 
-This simple application uses the Microsoft Graph API to create virtual mail folders on the server that correspond to all of your categories. For simplicity, simply obtain an authorization token from the [Microsoft Graph API Explorer](https://developer.microsoft.com/graph/graph-explorer?wt.mc_id=outlookcategorized-github-beverst) and paste it into this simple app. No data is sent to another entity other than Microsoft, and only for the sake of 
+This simple application uses the Microsoft Graph API to create virtual mail folders on the server that correspond to all of your categories. For simplicity, simply obtain an authorization token from the [Microsoft Graph API Explorer](https://developer.microsoft.com/graph/graph-explorer?wt.mc_id=outlookcategorized-github-beverst) and paste it into this simple app. No data is sent to another entity other than Microsoft, and only for the sake of calling the Graph API.
+
+The Outlook Desktop app does not persists settings on the server, and therefore other email clients cannot benefit its configuration. Additionally, the configuration performed by this tool is not directly possible through Outlook web or any email client.
 
 ### How it works ( in depth )
 
